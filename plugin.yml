@@ -1,4 +1,4 @@
-name: mabodoufu
+name: ClimbWall
 main: matsuo\ClimbWall\main
 version: 1.0.0
 api: 3.11.0

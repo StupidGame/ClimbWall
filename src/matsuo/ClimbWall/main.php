@@ -26,6 +26,6 @@ class Main extends PluginBase implements Listener{
         }
         }else{ 
           $player->setCanClimbWalls(false);
-        }
+      }
   }  
 }
